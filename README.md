@@ -3,7 +3,9 @@ A simple, full stack web application which helps in visualizing the FEMA disaste
 View at http://django-env.bzjvgpxk2x.us-west-2.elasticbeanstalk.com/
 
 To run locally (you don't need to, but for debugging purposes):
+
 source djangoEnv/bin/activate
+
 python3 mapper/manage.py runserver
 
 All dependencies are already installed in the virtual environment, so the above 2 steps should be sufficient.
